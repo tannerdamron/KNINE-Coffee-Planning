@@ -45,14 +45,16 @@ This web application was built with React, and will allow the user to create an 
 ![](Home-Design.png?raw=true)
 ### Products Page
 ![](Products-Design.png?raw=true)
-### About Page
-![](About-Design.png?raw=true)
+### Strength Page
+![](Strength-Design.png?raw=true)
 ### Recipes Page
 ![](Recipes-Design.png?raw=true)
 ### About Page
 ![](About-Design.png?raw=true)
-### Strength Page
-![](Strength-Design.png?raw=true)
+### Contact Page
+![](Contact-Design.png?raw=true)
+
+
 
 
 # Component Trees
@@ -60,12 +62,12 @@ This web application was built with React, and will allow the user to create an 
 ![](Home-Component-Tree.png?raw=true)
 ### Products Page
 ![](Products-Component-Tree.png?raw=true)
-### About Page
-![](About-Component-Tree.png?raw=true)
 ### Recipes Page
 ![](Recipes-Component-Tree.png?raw=true)
 ### About Page
 ![](About-Component-Tree.png?raw=true)
+### Contact Page
+![](Contact-Component-Tree.png?raw=true)
 
 ## Specifications
 
