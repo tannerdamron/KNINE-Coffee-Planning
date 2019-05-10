@@ -40,12 +40,17 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 ## Description
 This web application was built with React, and will allow the user to create an account and password for KNINE Coffee, browse, search, and order KNINE Coffee products, and sign up for a mailing list.
 
-## Blueprints
-* Home Page
-![](KNINE-Coffee-Home-Blueprints.png?raw=true)
+## Component Trees
+### Home Page
+![](Home-Component-Tree.png?raw=true)
+### Products Page
+![](Products-Component-Tree.png?raw=true)
 
 ## Layout/Design
-![](KNINE-Coffee-Home-Wireframe.png?raw=true)
+### Home Page
+![](Home-Design.png?raw=true)
+### Products Page
+![](Products-Design.png?raw=true)
 
 ## Known Bugs
 
