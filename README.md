@@ -45,16 +45,16 @@ This web application was built with React, and will allow the user to create an 
 ![](Home-Component-Tree.png?raw=true)
 ### Products Page
 ![](Products-Component-Tree.png?raw=true)
+### About Page
+![](About-Component-Tree.png?raw=true)
 
 ## Layout/Design
 ### Home Page
 ![](Home-Design.png?raw=true)
 ### Products Page
 ![](Products-Design.png?raw=true)
-
-## Known Bugs
-
-* No known bugs
+### About Page
+![](About-Design.png?raw=true)
 
 ## Specifications
 
