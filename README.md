@@ -53,9 +53,8 @@ This web application was built with React, and will allow the user to create an 
 ![](About-Design.png?raw=true)
 ### Contact Page
 ![](Contact-Design.png?raw=true)
-
-
-
+### Checkout Page
+![](Checkout-Design.png?raw=true)
 
 # Component Trees
 ### Home Page
