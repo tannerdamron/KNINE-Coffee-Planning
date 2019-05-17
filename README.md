@@ -4,6 +4,10 @@
 ###### Initiated May 5th, 2019.
 
 ----------
+
+## Link to delpoyed project
+> https://knine-coffee-test.myshopify.com/
+
 ## Project Proposal
 Name of Student:
 > Tanner Damron
